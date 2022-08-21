@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Пишу свое дз");
         System.out.println("Делаю коммит и пуш");
         System.out.println("Перехожу в гитхаб");
+        System.out.println("Переход в ветку HomeWork2");
     }
 }
