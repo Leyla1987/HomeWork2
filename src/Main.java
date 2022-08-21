@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        System.out.println("Пишу свое дз");
+        System.out.println("Делаю коммит и пуш");
+        System.out.println("Перехожу в гитхаб");
     }
 }
